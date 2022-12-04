@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "fullstackreactapp620caf6d": {}
+      },
+      "api": {
+        "fullstackreactapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
