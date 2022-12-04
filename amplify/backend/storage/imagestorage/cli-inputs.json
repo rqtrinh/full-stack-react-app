@@ -5,7 +5,9 @@
   "storageAccess": "auth",
   "guestAccess": [],
   "authAccess": [
-    "DELETE"
+    "DELETE",
+    "CREATE_AND_UPDATE",
+    "READ"
   ],
   "triggerFunction": "NONE",
   "groupAccess": {}
